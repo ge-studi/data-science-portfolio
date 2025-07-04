@@ -9,14 +9,12 @@ A personal portfolio website built using React and Tailwind CSS showcasing data 
 - Contact section
 
 ## 🚀 Run Locally
-```bash
+
 npm install
 npm run dev
-```
+
 
 ## 📦 Build for Production
-```bash
-npm run build
-```
 
-Deploy to Netlify by dragging the `dist/` folder or connecting GitHub.
+npm run build
+
